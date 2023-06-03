@@ -6,4 +6,4 @@ The goal of the game is to avoid obstacles and score as many points as possible.
  
  <h1>Game Scenes:</h1>
 
-![Image alt](https://github.com/DenisPavlov0/WaveRunner-Unity-Game/raw/main/Image1.png) ![Image alt](https://github.com/DenisPavlov0/WaveRunner-Unity-Game/raw/main/Image2.png) 
+![Image alt](https://github.com/DenisPavlov0/WaveRunner-Unity-Game/raw/main/Image3.png) 
